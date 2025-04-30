@@ -1,7 +1,6 @@
 <h1 align="center">Olá 👋, sou Pedro Cassiano</h1>
 <h3 align="center">Focado em aprender cada vez mais novas tecnologias e evoluir no mundo da Programação! Sou dev. em formação, estudante dedicado e aluno na UNIP, cursando o 1° ano de Análise e Desenvolvimento de Sistemas, sou um aluno com paixão por tecnologia e criação de soluções modernas e funcionais. Tenho habilidades em algumas ferramentas, e aplico esses conhecimentos na construção de layouts responsivos e projetos dinâmicos.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cassiano-coding&label=Profile%20views&color=0e75b6&style=flat" alt="cassiano-coding" /> </p>
 
 - 🌱 Atualmente estou aprendendo **Java, Python e I.A**
 
@@ -21,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cassiano-coding&show_icons=true&locale=en&layout=compact" alt="cassiano-coding" /></p>
 
 <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=cassiano-coding&show_icons=true&locale=en" alt="cassiano-coding" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cassiano-coding&label=Profile%20views&color=0e75b6&style=flat" alt="cassiano-coding" /> </p>
